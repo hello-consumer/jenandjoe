@@ -2,7 +2,7 @@ section{
     min-height: 100vh;
 }
 body{
-     background-image: url("/images/tulips.jpg");
+     background-image: url("/images/tulips.webp");
 
     background-attachment: fixed;
     background-size: cover;
